@@ -8,12 +8,12 @@
   <img src="GTAVC-Capa.png" alt="GTA Vice City Online - WebAssembly" width="350">
 </p>
 
-[![Jogar GTA VC](https://img.shields.io/badge/%F0%9F%8E%AE_JOGAR_GTA_VC-FF1493?style=for-the-badge)](https://SEU-DOMINIO-AQUI.com)
+[![Jogar GTA VC](https://img.shields.io/badge/%F0%9F%8E%AE_JOGAR_GTA_VC-FF1493?style=for-the-badge)](https://gtavc.projetoescola.com)
 [![Tecnologia WebAssembly](https://img.shields.io/badge/WebAssembly-WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
 ![Plataforma](https://img.shields.io/badge/Plataforma-Navegador-00B8D9?style=for-the-badge)
 ![Projeto](https://img.shields.io/badge/Projeto-Web_Game-24292f?style=for-the-badge)
 
-**[▶ JOGAR GTA VICE CITY ONLINE](https://SEU-DOMINIO-AQUI.com)** · **[Como jogar](#-como-jogar-gta-vice-city-no-navegador)** · **[Perguntas frequentes](#-perguntas-frequentes-faq)**
+**[▶ JOGAR GTA VICE CITY ONLINE](https://gtavc.projetoescola.com)** · **[Como jogar](#-como-jogar-gta-vice-city-no-navegador)** · **[Perguntas frequentes](#-perguntas-frequentes-faq)**
 
 </div>
 
@@ -61,7 +61,7 @@ O universo de Vice City oferece inúmeras possibilidades. **Confirme quais delas
 
 ## 🚀 Como jogar GTA Vice City no navegador
 
-1. Abra **[o site do GTA VC](https://SEU-DOMINIO-AQUI.com)**.
+1. Abra **[o site do GTA VC](https://gtavc.projetoescola.com)**.
 2. Use um navegador moderno, como Chrome, Edge ou Firefox, em versão atualizada.
 3. Aguarde o carregamento dos arquivos necessários para executar o jogo.
 4. Clique na área do jogo e siga as instruções exibidas na tela.
@@ -143,7 +143,7 @@ Depende do sistema de salvamento da versão publicada. Verifique se sua compila�
 
 ## 🔗 Acesse e compartilhe
 
-**🎮 [Clique aqui para jogar GTA VC no navegador](https://SEU-DOMINIO-AQUI.com)**
+**🎮 [Clique aqui para jogar GTA VC no navegador](https://gtavc.projetoescola.com)**
 
 Gostou do projeto? Compartilhe o link e dê uma ⭐ no repositório para ajudar outras pessoas a encontrá-lo.
 
@@ -169,6 +169,6 @@ Este é um projeto de port para navegador apresentado de maneira independente. *
 
 **🌴 Vice City na sua tela. Abra o navegador e explore. 🌴**
 
-**[▶ JOGAR AGORA](https://SEU-DOMINIO-AQUI.com)**
+**[▶ JOGAR AGORA](https://gtavc.projetoescola.com)**
 
 </div>
