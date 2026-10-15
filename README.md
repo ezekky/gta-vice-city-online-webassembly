@@ -4,7 +4,9 @@
 
 ### Explore Vice City diretamente no navegador, sem precisar instalar o jogo no computador
 
-![Capa GTA VC — Vice City no navegador com WebAssembly](GTAVC-Capa.png)
+<p align="center">
+  <img src="GTAVC-Capa.png" alt="GTA Vice City Online - WebAssembly" width="350">
+</p>
 
 [![Jogar GTA VC](https://img.shields.io/badge/%F0%9F%8E%AE_JOGAR_GTA_VC-FF1493?style=for-the-badge)](https://SEU-DOMINIO-AQUI.com)
 [![Tecnologia WebAssembly](https://img.shields.io/badge/WebAssembly-WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
