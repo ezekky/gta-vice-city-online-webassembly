@@ -44,18 +44,18 @@ O universo de Vice City oferece inúmeras possibilidades. **Confirme quais delas
 
 | Atividade | O que esperar | Disponibilidade nesta versão |
 |---|---|---|
-| 🌆 Explorar a cidade | Passear pelas ruas, praias e bairros do mapa | A verificar |
-| 🚗 Dirigir carros | Experimentar diferentes veículos e percorrer a cidade | A verificar |
-| 🏍️ Pilotar motos | Circular entre bairros e avenidas | A verificar |
-| 🚤 Navegar com barcos | Conhecer áreas costeiras e aquáticas | A verificar |
-| 🚁 Pilotar helicópteros | Explorar a cidade pelo alto | A verificar |
-| 📍 Realizar missões | Seguir objetivos e atividades da campanha | A verificar |
-| 🚓 Fugir da polícia | Interagir com o sistema de perseguição do jogo | A verificar |
-| 🏁 Desafios e manobras | Buscar rotas alternativas e saltos | A verificar |
-| 💵 Ganhar dinheiro no jogo | Participar das atividades econômicas da campanha | A verificar |
-| 🏠 Comprar propriedades | Adquirir imóveis e desbloquear atividades | A verificar |
-| 🎵 Ouvir rádios | Escutar as estações disponíveis na versão | A verificar |
-| 💾 Salvar progresso | Retomar a partida posteriormente | A verificar |
+| 🌆 Explorar a cidade | Passear pelas ruas, praias e bairros do mapa | Disponível |
+| 🚗 Dirigir carros | Experimentar diferentes veículos e percorrer a cidade | Disponível |
+| 🏍️ Pilotar motos | Circular entre bairros e avenidas | Disponível |
+| 🚤 Navegar com barcos | Conhecer áreas costeiras e aquáticas | Disponível |
+| 🚁 Pilotar helicópteros | Explorar a cidade pelo alto | Disponível |
+| 📍 Realizar missões | Seguir objetivos e atividades da campanha | Disponível |
+| 🚓 Fugir da polícia | Interagir com o sistema de perseguição do jogo | Disponível |
+| 🏁 Desafios e manobras | Buscar rotas alternativas e saltos | Disponível |
+| 💵 Ganhar dinheiro no jogo | Participar das atividades econômicas da campanha | Disponível |
+| 🏠 Comprar propriedades | Adquirir imóveis e desbloquear atividades | Disponível |
+| 🎵 Ouvir rádios | Escutar as estações disponíveis na versão | Disponível |
+| 💾 Salvar progresso | Retomar a partida posteriormente | Disponível |
 
 **Mantenha na tabela apenas o que você testou no navegador.** Recursos presentes no jogo original não são necessariamente suportados por todas as compilações ou ports para web.
 
@@ -119,7 +119,7 @@ O objetivo desta versão é permitir o acesso direto pelo navegador, sem instala
 
 ### GTA VC no navegador funciona em PC fraco?
 
-A versão foi preparada com foco em otimização e acessibilidade. O resultado depende das especificações do PC, do navegador e das configurações gráficas. Teste no seu dispositivo para verificar a fluidez.
+A versão foi preparada com foco em otimização e acessibilidade. O resultado depende das especificações do PC, do navegador e das configurações gráficas. Teste no seu dispositivo parDisponível a fluidez.
 
 ### Posso jogar GTA Vice City de graça?
 
