@@ -157,8 +157,6 @@ Este é um **projeto independente de fã**, criado para **estudos, testes técni
 
 **English — Fan project / Educational purpose:** This is an independent fan-made project for educational purposes, technical experimentation, learning, and testing browser-based game development and WebAssembly (WASM). It is not an official GTA Vice City release and is not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
 
-> A finalidade educacional ou não comercial, por si só, **não garante autorização** para utilizar ou distribuir jogos, código, marcas, trilhas sonoras, imagens e demais conteúdos protegidos por direitos autorais.
-
 ## ⚖️ Aviso legal
 
 Este é um projeto de port para navegador apresentado de maneira independente. **GTA, Grand Theft Auto, Vice City e marcas relacionadas pertencem aos respectivos titulares.** Este repositório não declara afiliação, endosso ou autorização de Rockstar Games ou Take-Two Interactive. A disponibilização de código, recursos gráficos, áudios e outros arquivos protegidos requer os direitos ou autorizações pertinentes. O uso de WebAssembly não elimina essas obrigações.
